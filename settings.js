@@ -13,7 +13,7 @@ global.APIKeys = {
 
 
 global.OWNER_REACT = '❄️'
-global.REACT_NUMBER = '6281908260632'
+global.REACT_NUMBER = '6285876830674'
 
 //aumto functioner
 global.autoTyping = true //auto tying in gc (true to on, false to off)
@@ -41,9 +41,9 @@ global.socialm = "GitHub: Flyzunx" //ur github or insta name
 global.location = "Indonesia, Kalimantan Selatan, Cempaka" //ur location
 
 //bot bomdy 
-global.owner = ['6281908260632']
-global.ownertag = '6281908260632' //ur tag number
-global.botname = '✫ ✫ ✫FlySarik-MD✫ ✫ ✫' //ur bot name
+global.owner = ['6285876830674']
+global.ownertag = '6285876830674' //ur tag number
+global.botname = '✫ ✫ ✫SANS-MD✫ ✫ ✫' //ur bot name
 global.linkz = "https://github.com/Kaveeshasithum/DARK-NERO-BOT.git" //your theme url which will be displayed on whatsapp
 global.websitex = "https://github.com/Kaveeshasithum/DARK-NERO-BOT.git" //ur website to be displayed
 global.botscript = 'https://github.com/Kaveeshasithum/DARK-NERO-BOT.git' //script link
